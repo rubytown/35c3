@@ -21,6 +21,11 @@ We have a public #rubytown channel at the Rails Berlin e.V. Slack. You can get i
 the congress for planning etc.
 http://slack.rubyberlin.org/
 
+## Rubytown Swag
+You can order some Rubytown themed shirts, hoddies etc. here:
+https://shop.spreadshirt.de/rubytown
+It would be nice, if we show some visual presence at the congress. To avoid logistic troubles, everyone can order for themselves before the congress.
+
 ## Who will come
 https://github.com/rubytown/35c3/issues/1
 
